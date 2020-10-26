@@ -1,0 +1,5 @@
+settings.*
+storage/*
+*.log
+*.exe
+*.pyc
